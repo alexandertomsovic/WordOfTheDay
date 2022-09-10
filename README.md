@@ -19,8 +19,8 @@
 
 <a target="_blank" href="https://alextomsovic1.wixsite.com/my-site">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84757117/185300584-bf5c08aa-15a5-442c-a580-87c3a701c5b7.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84757117/185300584-bf5c08aa-15a5-442c-a580-87c3a701c5b7.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/84757117/189466772-50ae7326-ec5e-4b68-879d-a269cdc84c78.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/84757117/189466772-50ae7326-ec5e-4b68-879d-a269cdc84c78.png">
   <img src="" width="350">
 </picture>
 </a>
