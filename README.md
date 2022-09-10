@@ -14,7 +14,7 @@
 - Added an [**SMS updating replit**](https://replit.com/@AlexTomsovic/CrytoPriceCheckWithSMS#main.py)
 
 ## Creator
-- BlockTrade AI and the Crypto Checking code was developed by [**Alexander Tomsovic**](github.com/alexandertomsovic)
+- Word Of The Day, its code, Linktree, and all other pages are owned and operated by [**Alexander Tomsovic**](github.com/alexandertomsovic)
 - Engineered by A.R.T. LLC
 
 <a target="_blank" href="https://alextomsovic1.wixsite.com/my-site">
