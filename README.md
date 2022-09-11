@@ -1,7 +1,7 @@
 # Word Of The Day | ([WordToday.py](https://linktr.ee/wordtoday))
 ![](https://img.shields.io/static/v1?label=Server+Status&style=flat-square&message=Active&color=brightgreen)
 
-Word of the day is an open-source program that sends daily words to users via SMS. It was built with python and integrated with the Twilio client. It operates with the PyDictionary and Random-Word python 3.9 libraries. Word of the day is completely free open-source program and does not advertise nor use your data in any way! Visit the word of the day [**linktree](https://linktr.ee/wordtoday) to signup for daily words!
+Word of the day is an open-source program that sends daily words to users via SMS. It was built with python and integrated with the Twilio client. It operates with the PyDictionary and Random-Word python 3.9 libraries. Word of the day is completely free open-source program and does not advertise nor use your data in any way! Visit the word of the day [**linktree**](https://linktr.ee/wordtoday) to signup for daily words!
 
 ## Features
 - Daily word updates (8:00 AM PST)
@@ -10,9 +10,9 @@ Word of the day is an open-source program that sends daily words to users via SM
 - Dictionary links to Merriam Webster
 
 ## Sign Up 
-- Sign up for WordOfTheDay via the [**linktree form](https://linktr.ee/wordtoday). It's completely free!
-- Follow us on instagram for daily word updates [**@WordToday.py](https://www.instagram.com/wordtoday.py/)
-- If you have the means and want to help support WordOfTheDay, you can make a contribution via our [**Buy Me A Coffee](https://www.buymeacoffee.com/wordoftheday) page!
+- Sign up for WordOfTheDay via the [**Linktree Form**](https://linktr.ee/wordtoday). It's completely free!
+- Follow us on instagram for daily word updates [**@WordToday.py**](https://www.instagram.com/wordtoday.py/)
+- If you have the means and want to help support WordOfTheDay, you can make a contribution via our [**Buy Me A Coffee**](https://www.buymeacoffee.com/wordoftheday) page!
 
 ## Creator
 - Word Of The Day, its code, Linktree, and all other pages are owned and operated by [**Alexander Tomsovic**](https://github.com/alexandertomsovic)
