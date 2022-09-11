@@ -5,15 +5,17 @@ Word of the day is an open-source program that sends daily words to users via SM
 
 ## Features
 - Daily word updates (8:00 AM PST)
-- Word Definitions 
-- Part of speech info
+- Complete word definitions 
+- Part of speech type 
 - Dictionary links to Merriam Webster
 
 ## Sign Up 
-- Sign up for 
+- Sign up for WordOfTheDay via the [linktree form](https://linktr.ee/wordtoday). It's completely free!
+- Follow us on instagram for daily word updates [@WordToday.py](https://www.instagram.com/wordtoday.py/)]
+- If you have the means and want to help support WordOfTheDay, you can make a contribution via our [Buy Me A Coffee](https://www.buymeacoffee.com/wordoftheday) page!
 
 ## Creator
-- Word Of The Day, its code, Linktree, and all other pages are owned and operated by [**Alexander Tomsovic**](github.com/alexandertomsovic)
+- Word Of The Day, its code, Linktree, and all other pages are owned and operated by [**Alexander Tomsovic**](https://github.com/alexandertomsovic)
 - Engineered by A.R.T. LLC
 
 <a target="_blank" href="https://alextomsovic1.wixsite.com/my-site">
@@ -24,15 +26,4 @@ Word of the day is an open-source program that sends daily words to users via SM
 </picture>
 </a>
 
-## Features
-- Update Ticker
-- Color Coded Price adjustments
-- ETH / BTC / XRP / USDT / LTC price tracking
-- BTC price update via SMS
-- SMS message timer
 
-## Using BlockTrade AI: (pre public release)
-- You can access the browser version for crypto price checking (No SMS updates) via my [**Replit**.](https://replit.com/@AlexTomsovic/cryptoprices#main.py)
-- To access the browser version with SMS updates, visit my [**Other Replit**](https://replit.com/@AlexTomsovic/CrytoPriceCheckWithSMS#main.py)
-- To use in an IDE, download the file or type:
-`gh repo clone alexandertomsovic/BlockTradeAI`
