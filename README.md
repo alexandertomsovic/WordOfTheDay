@@ -1,12 +1,12 @@
 # Word Of The Day | ([WordToday.py](https://linktr.ee/wordtoday))
 ![](https://img.shields.io/static/v1?label=Server+Status&style=flat-square&message=Active&color=brightgreen)
 
-Word of the day is an open-source program that sends daily words to users via SMS. It was built with python and integrated with the Twilio client. It operates with the PyDictionary and Random-Word python 3.9 libraries. Word of the day is completely free open-source program and does not advertise nor use your data in any way! Visit the word of the day [**Linktree**](https://linktr.ee/wordtoday) to signup for daily words!
+Word of the day is an open-source program that sends daily words to users via SMS. It was built with python and integrated with the Twilio SMS client. It operates with the 'PyDictionary' and 'Random-Word' Python 3.9 libraries. Word of the day is completely free open-source program and does not advertise nor use your data in any way! Visit our [**Linktree**](https://linktr.ee/wordtoday) to signup for daily words!
 
 ## Features
-- Daily word updates (8:00 AM PST)
-- Complete word definitions 
-- Part Of Speech  
+- Daily Word Updates (8:00 AM PST)
+- Complete Word Definitions 
+- Part of Speech  
 - Merriam Webster Dictionary Links
 
 ## Sign Up 
