@@ -26,4 +26,4 @@ Word of the day is an open-source program that sends daily words to users via SM
 </picture>
 </a>
 
-
+![](https://img.shields.io/endpoint?url=https://www.buymeacoffee.com/wordoftheday&label=Server+Status&style=flat-square&message=Active&color=brightgreen)
