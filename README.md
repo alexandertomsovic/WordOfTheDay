@@ -11,7 +11,7 @@ Word of the day is an open-source program that sends daily words to users via SM
 - Merriam Webster Dictionary Links
 
 ## Sign Up 
-- Sign up for WordOfTheDay via the [**Linktree Form**](https://linktr.ee/wordtoday). It's completely free!
+- Sign up for WordOfTheDay via the [**Linktree**](https://linktr.ee/wordtoday). It's completely free!
 - Follow us on instagram for daily word updates [**@WordToday.py**](https://www.instagram.com/wordtoday.py/)
 - If you have the means and want to help support WordOfTheDay, you can make a contribution via our [**Buy Me A Coffee**]
 
