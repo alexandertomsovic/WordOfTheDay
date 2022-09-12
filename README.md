@@ -12,9 +12,8 @@ Word of the day is an open-source program that sends daily words to users via SM
 ## Sign Up 
 - Sign up for WordOfTheDay via the [**Linktree Form**](https://linktr.ee/wordtoday). It's completely free!
 - Follow us on instagram for daily word updates [**@WordToday.py**](https://www.instagram.com/wordtoday.py/)
-- If you have the means and want to help support WordOfTheDay, you can make a contribution via our [**Buy Me A Coffee**](https://www.buymeacoffee.com/wordoftheday) page!
-[![](https://img.shields.io/static/v1?label=Buy+Me+A+Coffee&logo=buymeacoffee&style=flat-square&message=Word+Today&color=FFE800)](https://www.buymeacoffee.com/wordoftheday)
-[![](https://img.shields.io/static/v1?label=Instagram&logo=instagram&style=flat-square&message=@WordToday.py&color=E4405F)](https://www.instagram.com/wordtoday.py/)
+- If you have the means and want to help support WordOfTheDay, you can make a contribution via our [**Buy Me A Coffee**](https://www.buymeacoffee.com/wordoftheday) page! [![](https://img.shields.io/static/v1?label=Buy+Me+A+Coffee&logo=buymeacoffee&style=flat-square&message=Word+Today&color=FFE800)](https://www.buymeacoffee.com/wordoftheday)
+
 
 ## Creator
 - Word Of The Day, its code, Linktree, and all other pages are owned and operated by [**Alexander Tomsovic**](https://github.com/alexandertomsovic)
@@ -30,5 +29,6 @@ Word of the day is an open-source program that sends daily words to users via SM
 
 ### 
 ![](https://img.shields.io/static/v1?label=Current+Users&style=flat-square&message=1,273&color=4c00b0)
-
+[![](https://img.shields.io/static/v1?label=Buy+Me+A+Coffee&logo=buymeacoffee&style=flat-square&message=Word+Today&color=FFE800)](https://www.buymeacoffee.com/wordoftheday)
+[![](https://img.shields.io/static/v1?label=Instagram&logo=instagram&style=flat-square&message=@WordToday.py&color=E4405F)](https://www.instagram.com/wordtoday.py/)
 
