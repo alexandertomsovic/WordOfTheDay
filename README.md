@@ -1,6 +1,6 @@
 # Word Of The Day | ([WordToday.py](https://linktr.ee/wordtoday))
 ![](https://img.shields.io/static/v1?label=Server+Status&style=flat-square&message=Active&color=brightgreen)
-![](https://img.shields.io/static/v1?label=Python&logo=python&style=flat-square&message=Version+3.8&color=3776AB)
+![](https://img.shields.io/static/v1?label=Python&logo=python&style=flat-square&message=Version+3.9&color=3776AB)
 
 Word of the day is an open-source program that sends daily words to users via SMS. It was built with python and integrated with the Twilio SMS client. It operates with the 'PyDictionary' and 'Random-Word' Python 3.8 libraries. Word of the day is completely free open-source program and does not advertise nor use your data in any way! Visit our [**Linktree**](https://linktr.ee/wordtoday) to signup for daily words!
 
@@ -31,3 +31,4 @@ Word of the day is an open-source program that sends daily words to users via SM
 ![](https://img.shields.io/static/v1?label=Current+Users&style=flat-square&message=1,273&color=4c00b0)
 [![](https://img.shields.io/static/v1?label=Buy+Me+A+Coffee&logo=buymeacoffee&style=flat-square&message=Word+Today&color=FFE800)](https://www.buymeacoffee.com/wordoftheday)
 [![](https://img.shields.io/static/v1?label=Instagram&logo=instagram&style=flat-square&message=@WordToday.py&color=E4405F)](https://www.instagram.com/wordtoday.py/)
+[![](https://img.shields.io/static/v1?label=LinkTree&logo=linktree&style=flat-square&message=SignUp.py&color=03c04a)](https://linktr.ee/wordtoday)
