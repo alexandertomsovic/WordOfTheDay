@@ -47,8 +47,8 @@ while True:
   current_day = datetime.strftime(datetime.now(), '%b %d')
 
   # Twilio auth / acc tokens
-  account_sid = "ACe524163d700bd0b4849b0c50569a093c" 
-  auth_token  = "ed3a2c2beb63206282fb6c8c3612a167"
+  account_sid = "TWILIO_ACCOUNT_SID" 
+  auth_token  = "TWILIO_AUTH_TOKEN"
   client = Client(account_sid, auth_token)
   
   clear = "cls" if sys.platform == "win32" else "clear"
@@ -106,24 +106,18 @@ while True:
 
   text = " " + str(current_day) + " | '" + first_word_type_str + "' \n\n" + first_body_text + "\n" + dict_url + "\n\nCreated by A.R.T."
 
-  sorry = "Technical difficulties today. Expect a word momentarily."
+  oops_error = "Technical difficulties today. Expect a word momentarily."
 
   if str(current_hour) == "14":
     if str(current_minute) == "00":
       if str(current_second) == "00":
 
-        numbers_to_message = ['+16692199886', '+15106725996', '+15107542586', '+15105137806', '+15103585844', '+15107387116', '+14087171705', '+15103422639', '+15108270299', '+15103648839', '+15106790082', '+15108611970']
+        numbers_to_message = ["INSERT_NUMBERS_HERE"]
         
         for number in numbers_to_message:
           client.messages.create(
           body = text,
-          from_="+19853153395",
+          from_="YOUR_TWILIO_NUMBER",
           to=number)
-
-                
-        # wotd_sms = client.messages.create( 
-        # to = "+15106790082", # Dhruv's iPhone
-        # from_ = "+19853153395",
-        # body = text)
 
         
