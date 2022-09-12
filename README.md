@@ -31,4 +31,4 @@ Word of the day is an open-source program that sends daily words to users via SM
 ![](https://img.shields.io/static/v1?label=Current+Users&style=flat-square&message=1,273&color=4c00b0)
 [![](https://img.shields.io/static/v1?label=Buy+Me+A+Coffee&logo=buymeacoffee&style=flat-square&message=Word+Today&color=FFE800)](https://www.buymeacoffee.com/wordoftheday)
 [![](https://img.shields.io/static/v1?label=Instagram&logo=instagram&style=flat-square&message=@WordToday.py&color=E4405F)](https://www.instagram.com/wordtoday.py/)
-[![](https://img.shields.io/static/v1?label=LinkTree&logo=linktree&style=flat-square&message=SignUp.py&color=03c04a)](https://linktr.ee/wordtoday)
+[![](https://img.shields.io/static/v1?label=LinkTree&logo=linktree&style=flat-square&message=Signup&color=03c04a)](https://linktr.ee/wordtoday)
